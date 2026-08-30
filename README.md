@@ -9,4 +9,4 @@ A multiplayer game where players compete to be the first to get 10 green coins.
 [Itch.io](https://pineappleblue.itch.io/coin-arena)
 
 
-![Gameplay](Content/Screenshots/Screenshot.png)
+![Screenshot](Screenshots/Screenshot.png)
